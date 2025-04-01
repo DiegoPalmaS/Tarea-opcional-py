@@ -1,4 +1,4 @@
-""" #método 1
+#método 1
 #se defina una función
 def sumar(lista):
     #se declara una variable para acumular la suma
@@ -18,9 +18,9 @@ def suma_rapida(lista):
     return suma2
 
 lista_usuario = [1,2,3]
-print(suma_rapida(lista_usuario)) """
+print(suma_rapida(lista_usuario))
 
-""" # Función para multiplicar los elementos de una lista
+# Función para multiplicar los elementos de una lista
 #forma 1 (con for)
 def multiplicar(lista):
     #declaro una variable, para guardar el producto (elemento neutro en la multiplicación)
@@ -53,7 +53,7 @@ def multiplicar_con_while(lista):
     return resultado
 
 lista_test = [1,2,3,4]
-print(multiplicar_con_while(lista_test))"""
+print(multiplicar_con_while(lista_test))
 
 #comprobar si el número es par ó entero
 #se define la función
